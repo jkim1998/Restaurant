@@ -1,4 +1,4 @@
-# ![WebApp](https://iharsh234.github.io/WebApp/images/demo/demo_landing.JPG)
+# ![WebApp](https://github.com/jkim1998/Restaurant/blob/main/screenshot/Restaurant_1.png)
 # Fine Dining Restaurant App
 <table>
 <tr>
