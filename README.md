@@ -37,7 +37,9 @@ To fix a bug or enhance an existing module, follow these steps:
 
 - Fork the repo
 - Create a new branch 
+```
     git checkout -b improvement
+```
 - Make the appropriate changes in the files
 - Add changes to reflect the changes made
 - Commit your changes 
