@@ -28,7 +28,7 @@ https://restaurant-dteecelcv-jkim1998.vercel.app/
 This WebApp is fully compatible with mobile devices of all sizes and all OS's, and consistent improvements are being made.
 
 
-### Development
+## Development
 - Author: Jonathan Kim
 
 Would you like to contribute?
@@ -36,11 +36,14 @@ Would you like to contribute?
 To fix a bug or enhance an existing module, follow these steps:
 
 - Fork the repo
-- Create a new branch (`git checkout -b improvement`)
+- Create a new branch 
+    git checkout -b improvement
 - Make the appropriate changes in the files
 - Add changes to reflect the changes made
-- Commit your changes (`git commit -am '{COMMIT MESSAGE}'`)
-- Push to the branch (`git push origin improvement`)
+- Commit your changes 
+    git commit -am '{COMMIT MESSAGE}'
+- Push to the branch 
+    git push origin improvement
 - Create a Pull Request 
 
 ### Bug / Feature Request
@@ -53,8 +56,13 @@ Thank you in advance.
 
 ## Dependecies 
 
-- [React-icons]: 'npm install react-icons --save'
+- [React-icons]: ('npm install react-icons --save')
 
+
+## Others
+
+- [Deployment]: Vercel
 
 ## To-do
-- 
+- log in/ reservation
+- email subscription (emailJS)
